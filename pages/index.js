@@ -22,7 +22,7 @@ export default function Home() {
 
 <script type="type=text/jsx">
   const app = document.getElementById('app');
-  ReactDOM.render(<div id="header"><img src="/images/banner.gif"/></div>, app);
+  ReactDOM.render(<div id="header"><img src="./Images//banner.gif"/></div>, app);
 </script>
 <iframe rows="75,*" src="./Douglas A. Salin LIGHTING APPLICATIONS_files/banner.html" hspace="50" marginheight="0" marginwidth="0" scrolling="no"></iframe>
 <iframe  cols="15%,85%" src="./Douglas A. Salin LIGHTING APPLICATIONS_files/index.html" name="Leftiframe" scrolling="YES">
