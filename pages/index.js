@@ -24,25 +24,19 @@ export default function Home() {
   const app = document.getElementById('app');
   ReactDOM.render(<div id="header"><img src="./Images//banner.gif"/></div>, app);
 </script>
-<iframe rows="75,*" src="./Douglas A. Salin LIGHTING APPLICATIONS_files/banner.html" hspace="50" marginheight="0" marginwidth="0" scrolling="no"></iframe>
-<iframe  cols="15%,85%" src="./lighting/Douglas A. Salin LIGHTING APPLICATIONS.html" name="Leftiframe" scrolling="YES">
 <iframe src="../pages/lighting/Douglas A. Salin LIGHTING APPLICATIONS_files/JSNORT-PREMem.html" name="Rightiframe" scrolling="YES">
 
 </iframe>
-</iframe>
 
-<iframe rows="75,*" src="/next-netlify-starter-main/pages/lighting/Douglas A. Salin LIGHTING APPLICATIONS_files/banner.html" hspace="50" marginheight="0" marginwidth="0" scrolling="no"></iframe>
-<iframe  cols="15%,85%" src="./Douglas A. Salin LIGHTING APPLICATIONS_files/index.html" name="Leftiframe" scrolling="YES">
+
 <iframe src="./Douglas A. Salin LIGHTING APPLICATIONS_files/JSNORT-PREMem.html" name="Rightiframe" scrolling="YES">
 
 </iframe>
-</iframe>
-<iframe rows="75,*" src="./Douglas A. Salin LIGHTING APPLICATIONS_files/banner.html" hspace="50" marginheight="0" marginwidth="0" scrolling="no"></iframe>
-<iframe  cols="15%,85%" src="./Douglas A. Salin LIGHTING APPLICATIONS_files/index.html" name="Leftiframe" scrolling="YES">
+
 <iframe src="./Douglas A. Salin LIGHTING APPLICATIONS_files/JSNORT-PREMem.html" name="Rightiframe" scrolling="YES">
 
 </iframe>
-</iframe>
+
       
        
       </main>
