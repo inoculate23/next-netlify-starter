@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-      <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+      <meta http-equiv="Content-Type" content="text/html; charset=windows-1252"/>
       <title>Douglas A. Salin  LIGHTING APPLICATIONS</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
