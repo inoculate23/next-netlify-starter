@@ -6,40 +6,50 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
+        
       <meta http-equiv="Content-Type" content="text/html; charset=windows-1252"/>
       <title>Douglas A. Salin  LIGHTING APPLICATIONS</title>
         <link rel="icon" href="/favicon.ico" />
+    
       </Head>
 
       <main>
-<frameset border="0" frameborder="0" rows="75,*">
-<frame src="./Douglas A. Salin LIGHTING APPLICATIONS_files/banner.html" hspace="50" marginheight="0" marginwidth="0" scrolling="no">
-<frameset frameborder="0" cols="15%,85%">
-<frame src="./Douglas A. Salin LIGHTING APPLICATIONS_files/index.html" name="LeftFrame" scrolling="YES">
-<frame src="./Douglas A. Salin LIGHTING APPLICATIONS_files/JSNORT-PREMem.html" name="RightFrame" scrolling="YES">
+      <div id="app"></div>
 
-</frameset>
-</frameset>
-</head><frameset border="0" frameborder="0" rows="75,*">
-<frame src="./Douglas A. Salin LIGHTING APPLICATIONS_files/banner.html" hspace="50" marginheight="0" marginwidth="0" scrolling="no">
-<frameset frameborder="0" cols="15%,85%">
-<frame src="./Douglas A. Salin LIGHTING APPLICATIONS_files/index.html" name="LeftFrame" scrolling="YES">
-<frame src="./Douglas A. Salin LIGHTING APPLICATIONS_files/JSNORT-PREMem.html" name="RightFrame" scrolling="YES">
+<script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+<script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 
-</frameset>
-</frameset>
-</head><frameset border="0" frameborder="0" rows="75,*">
-<frame src="./Douglas A. Salin LIGHTING APPLICATIONS_files/banner.html" hspace="50" marginheight="0" marginwidth="0" scrolling="no">
-<frameset frameborder="0" cols="15%,85%">
-<frame src="./Douglas A. Salin LIGHTING APPLICATIONS_files/index.html" name="LeftFrame" scrolling="YES">
-<frame src="./Douglas A. Salin LIGHTING APPLICATIONS_files/JSNORT-PREMem.html" name="RightFrame" scrolling="YES">
+<script type="type=text/jsx">
+  const app = document.getElementById('app');
+  ReactDOM.render(<div id="header"><img src="/images/banner.gif"/></div>, app);
+</script>
+<iframe rows="75,*" src="./Douglas A. Salin LIGHTING APPLICATIONS_files/banner.html" hspace="50" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+<iframe  cols="15%,85%" src="./Douglas A. Salin LIGHTING APPLICATIONS_files/index.html" name="Leftiframe" scrolling="YES">
+<iframe src="./Douglas A. Salin LIGHTING APPLICATIONS_files/JSNORT-PREMem.html" name="Rightiframe" scrolling="YES">
 
-</frameset>
-</frameset>
-        </p>
+</iframe>
+</iframe>
+
+<iframe rows="75,*" src="./Douglas A. Salin LIGHTING APPLICATIONS_files/banner.html" hspace="50" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+<iframe  cols="15%,85%" src="./Douglas A. Salin LIGHTING APPLICATIONS_files/index.html" name="Leftiframe" scrolling="YES">
+<iframe src="./Douglas A. Salin LIGHTING APPLICATIONS_files/JSNORT-PREMem.html" name="Rightiframe" scrolling="YES">
+
+</iframe>
+</iframe>
+<iframe rows="75,*" src="./Douglas A. Salin LIGHTING APPLICATIONS_files/banner.html" hspace="50" marginheight="0" marginwidth="0" scrolling="no"></iframe>
+<iframe  cols="15%,85%" src="./Douglas A. Salin LIGHTING APPLICATIONS_files/index.html" name="Leftiframe" scrolling="YES">
+<iframe src="./Douglas A. Salin LIGHTING APPLICATIONS_files/JSNORT-PREMem.html" name="Rightiframe" scrolling="YES">
+
+</iframe>
+</iframe>
+      
+       
       </main>
 
       <Footer />
-    </div>
+      </div>
   )
+  
 }
+  
