@@ -6,14 +6,36 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+      <title>Douglas A. Salin  LIGHTING APPLICATIONS</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
+<frameset border="0" frameborder="0" rows="75,*">
+<frame src="./Douglas A. Salin LIGHTING APPLICATIONS_files/banner.html" hspace="50" marginheight="0" marginwidth="0" scrolling="no">
+<frameset frameborder="0" cols="15%,85%">
+<frame src="./Douglas A. Salin LIGHTING APPLICATIONS_files/index.html" name="LeftFrame" scrolling="YES">
+<frame src="./Douglas A. Salin LIGHTING APPLICATIONS_files/JSNORT-PREMem.html" name="RightFrame" scrolling="YES">
+
+</frameset>
+</frameset>
+</head><frameset border="0" frameborder="0" rows="75,*">
+<frame src="./Douglas A. Salin LIGHTING APPLICATIONS_files/banner.html" hspace="50" marginheight="0" marginwidth="0" scrolling="no">
+<frameset frameborder="0" cols="15%,85%">
+<frame src="./Douglas A. Salin LIGHTING APPLICATIONS_files/index.html" name="LeftFrame" scrolling="YES">
+<frame src="./Douglas A. Salin LIGHTING APPLICATIONS_files/JSNORT-PREMem.html" name="RightFrame" scrolling="YES">
+
+</frameset>
+</frameset>
+</head><frameset border="0" frameborder="0" rows="75,*">
+<frame src="./Douglas A. Salin LIGHTING APPLICATIONS_files/banner.html" hspace="50" marginheight="0" marginwidth="0" scrolling="no">
+<frameset frameborder="0" cols="15%,85%">
+<frame src="./Douglas A. Salin LIGHTING APPLICATIONS_files/index.html" name="LeftFrame" scrolling="YES">
+<frame src="./Douglas A. Salin LIGHTING APPLICATIONS_files/JSNORT-PREMem.html" name="RightFrame" scrolling="YES">
+
+</frameset>
+</frameset>
         </p>
       </main>
 
